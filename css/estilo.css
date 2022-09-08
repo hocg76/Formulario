@@ -1,0 +1,56 @@
+.msg-erro {
+    color: red;
+}
+
+body {
+    background-color: #c8c7e28e;
+}
+
+h1 {
+    color: #000000;
+    text-shadow: 3px 3px 10px hsl(0, 6%, 35%);
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    color: #000000;
+    text-shadow: 3px 3px 10px #968d8d;
+    font-style:italic;
+    font-size: large;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+
+.bottomside {
+    display: flex;
+    justify-content: center;
+}
+
+.vcard {
+    font-size: small;
+    text-align: center;
+    color:#ffffff
+}
+
+footer{
+    display: table;
+    margin: 0px;
+    text-align: center;
+    padding: 0px;
+    width: 100%;
+    background: #be7f7f;
+    border: 2px solid white;
+    border-radius: 0px 0px 10px 10px;
+    -moz-border-radius: 0px 0px 10px 10px;
+    -webkit-border-radius: 0px 0px 10px 10px;
+    -o-border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 0px 10px white;
+    -moz-box-shadow: 0px 0px 10px white;
+    -webkit-box-shadow: 0px 0px 10px white;
+    -o-box-shadow: 0px 0px 10px white;
+}
